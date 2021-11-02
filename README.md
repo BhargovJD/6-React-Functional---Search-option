@@ -1,3 +1,2 @@
-1. Local storage
-2. useRef : auto focus
+1. Search from JSON file
 3. Live: 
